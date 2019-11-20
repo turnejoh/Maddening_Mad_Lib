@@ -1,0 +1,20 @@
+body{
+  background-color:#c9d1d3;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-position:top center;
+  background-size:cover; 
+ 
+
+}
+div{
+  background-color:#1b2a49;
+  border:10px solid #00909e;
+  padding:20px 20px 20px 20px 
+  font-family: 'Crete Round', serif;
+}
+
+form{
+  background-color: #465881;
+  border:10px solid #00909e
+}
